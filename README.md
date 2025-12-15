@@ -57,6 +57,7 @@ Developed by:s.devi RegisterNumber:25004804
 <img width="1920" height="1080" alt="Screenshot 2025-12-15 112544" src="https://github.com/user-attachments/assets/cc00af75-126d-4687-bc28-96d31c85a14c" />
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+
 <img width="1920" height="1080" alt="Screenshot 2025-12-15 134305" src="https://github.com/user-attachments/assets/4c1a9f2f-c8f6-4445-8a3f-89f9f899d352" />
 
 **RESULTS**
